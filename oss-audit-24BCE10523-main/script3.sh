@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 3: Disk and Permission Auditor
-# Author: Budhwani Gaurav Pratap | Course: Open Source Software
+# Author: MOHD OWAIS | Course: Open Source Software
 # Purpose: Loops through key system directories and reports
 #          their size, owner, and permissions using a for loop
 
