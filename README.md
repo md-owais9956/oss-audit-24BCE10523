@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐍 The Open Source Audit
+#  The Open Source Audit
 ### Python — A Community Built Language
 
 ![Python](https://img.shields.io/badge/Python-3.12.3-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -30,7 +30,7 @@ Alongside the written report, this repository contains **5 shell scripts** that 
 
 ---
 
-## 🐍 Why Python?
+##  Why Python?
 
 ```
 1989  →  Guido van Rossum starts Python over Christmas holidays
@@ -198,7 +198,7 @@ The report covers:
 
 ---
 
-Made with 🐍 and open source spirit  
+Made with python and open source spirit  
 **MOHD OWAIS** | VIT Bhopal University | 2026
 
 </div>
